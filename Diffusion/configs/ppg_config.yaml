@@ -1,0 +1,6 @@
+ppg_model:
+  ppg_model_path: pretrained_models/ppg_model/model.pt
+  ppg_config: pretrained_models/ppg_model/train.yaml
+  global_phn_center_path: pretrained_models/ppg_model/phn_center.npy
+  para_softmax_path: pretrained_models/ppg_model/model.pkl
+spk_dict_path: pretrained_models/spk_embeddings

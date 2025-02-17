@@ -1,0 +1,9 @@
+scipy==1.10.0
+pyworld
+hydra-colorlog==1.1.0
+hydra-core==1.2.0
+hydra-optuna-sweeper==1.2.0
+librosa==0.9.1
+numpy==1.23.5
+matplotlib==3.9.4
+praat-parselmouth
