@@ -1,22 +1,20 @@
-# Infer
+# 推理流程
 ```
-######## prepare data #############
+######## 准备数据 #############
 bash scripts/0_prepare_data.sh
 
-#######  train model ############
+####### 训练模型 ############
 bash launch_train/start.sh
 
-
-###### infer model trained using hubert feature #############
+#使用HuBERT特征训练的模型推理
 bash 0_infer_hubert_vctk.sh
 
-
-###### infer model trained using BNF feature #############
+#使用BNF特征训练的模型推理
 bash 0_infer_ppg_vctk.sh
 
 ```
 
-# Reference
+# 引用
 The model architecture of VITS model: 
 https://github.com/RVC-Project/Retrieval-based-Voice-
 Conversion-WebUI
