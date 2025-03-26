@@ -2,6 +2,7 @@
 ComoSVC using DiT as the backbone
 
 ## Installation
+Please download weights and config from https://huggingface.co/anonymous-VC-Demo/USM_VC_Models  
 - Download the vocoder weights and config, and place them under pretrained_models/vocoder.
 - Download the ppg model weights and config, and place them under pretrained_models/ppg_model.
 - Download the ComoSVC DiT weights and config, and place them under pretrained_models/ComoSVC_DiT.

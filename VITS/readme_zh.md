@@ -1,4 +1,5 @@
 # 推理流程
+请从https://huggingface.co/anonymous-VC-Demo/USM_VC_Models下载权重和config  
 ```
 ######## 准备数据 #############
 bash scripts/0_prepare_data.sh
@@ -16,5 +17,4 @@ bash 0_infer_ppg_vctk.sh
 
 # 引用
 The model architecture of VITS model: 
-https://github.com/RVC-Project/Retrieval-based-Voice-
-Conversion-WebUI
+https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI

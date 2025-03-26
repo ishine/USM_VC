@@ -2,6 +2,7 @@
 使用DiT作为backbone的ComoSVC
 
 ## 安装
+请从https://huggingface.co/anonymous-VC-Demo/USM_VC_Models下载权重和config  
 - 下载vocoder权重和config并放置于pretrained_models/vocoder下. 
 - 下载ppg model权重和config并放置于pretrained_models/ppg_model下. 
 - 下载ComoSVC DiT权重和config并放置于pretrained_models/ComoSVC_DiT下.

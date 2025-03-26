@@ -1,4 +1,5 @@
 # Infer
+Please download weights and config from https://huggingface.co/anonymous-VC-Demo/USM_VC_Models  
 ```
 ######## prepare data #############
 bash scripts/0_prepare_data.sh
