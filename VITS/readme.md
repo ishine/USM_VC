@@ -20,5 +20,4 @@ bash 0_infer_ppg_vctk.sh
 
 # Reference
 The model architecture of VITS model: 
-https://github.com/RVC-Project/Retrieval-based-Voice-
-Conversion-WebUI
+https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
