@@ -1,5 +1,6 @@
 # 推理流程
-请从https://huggingface.co/anonymous-VC-Demo/USM_VC_Models下载权重和config  
+请从https://huggingface.co/anonymous-VC-Demo/USM_VC_Models下载VITS权重和config  
+然后移动至exp_logs/  
 ```
 ######## 准备数据 #############
 bash scripts/0_prepare_data.sh

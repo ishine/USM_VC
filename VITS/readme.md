@@ -1,5 +1,6 @@
 # Infer
-Please download weights and config from https://huggingface.co/anonymous-VC-Demo/USM_VC_Models  
+Please download VITS weights and config from https://huggingface.co/anonymous-VC-Demo/USM_VC_Models  
+Then move them to exp_logs/  
 ```
 ######## prepare data #############
 bash scripts/0_prepare_data.sh
